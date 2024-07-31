@@ -78,7 +78,7 @@ This repository is a collection of my solutions to LeetCode problems. I have org
 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Solution](solutions/easy/relative_ranks.py) | Easy |
 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Solution](solutions/easy/longest_uncommon_subsequence_i.py) | Easy |
 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](solutions/easy/detect_capital.py) | Easy |
-| [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Solution](solutions/easy/reverse_string_ii.py) | Easy |
+| [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Solution](solutions/easy/reverse_string_ii.py) | Easy |---
 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Solution](solutions/easy/reverse_words_in_a_string_iii.py) | Easy |
 | [Array Partition](https://leetcode.com/problems/array-partition/description/) | [Solution](solutions/easy/array_partition.py) | Easy |
 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [Solution](solutions/easy/distribute_candies.py) | Easy |
