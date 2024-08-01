@@ -140,5 +140,5 @@ This repository is a collection of my solutions to LeetCode problems. I have org
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your_email@example.com](mailto:niteesh.bv@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me at [niteesh.bv@gmail.com](mailto:niteesh.bv@gmail.com).
 
