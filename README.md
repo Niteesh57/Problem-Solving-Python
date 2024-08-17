@@ -129,6 +129,40 @@ This repository is a collection of my solutions to LeetCode problems. I have org
 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | [Solution](solutions/easy/find_common_characters.py) | Easy |
 | [Maximize Sum of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/) | [Solution](solutions/easy/maximize_sum_of_array_after_k_negations.py) | Easy |
 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) | [Solution](solutions/easy/complement_of_base_10_integer.py) | Easy |
+| [Divisor Game](https://leetcode.com/problems/divisor-game/description/) | [Solution](solutions/easy/divisor_game.py) | Easy |
+| [Binary Prefix Divisible by 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) | [Solution](solutions/easy/binary_prefix_divisible_by_5.py) | Easy |
+| [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | [Solution](solutions/easy/remove_outermost_parentheses.py) | Easy |
+| [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/) | [Solution](solutions/easy/partition_array_into_three_parts_with_equal_sum.py) | Easy |
+| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Solution](solutions/easy/remove_all_adjacent_duplicates_in_string.py) | Easy |
+| [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | [Solution](solutions/easy/maximum_number_of_balloons.py) | Easy |
+| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | [Solution](solutions/easy/relative_sort_array.py) | Easy |
+| [Height Checker](https://leetcode.com/problems/height-checker/description/) | [Solution](solutions/easy/height_checker.py) | Easy |
+| [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/) | [Solution](solutions/easy/occurrences_after_bigram.py) | Easy |
+| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) | [Solution](solutions/easy/duplicate_zeros.py) | Easy |
+| [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/description/) | [Solution](solutions/easy/distribute_candies_to_people.py) | Easy |
+| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) | [Solution](solutions/easy/defanging_an_ip_address.py) | Easy |
+| [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Solution](solutions/easy/number_of_equivalent_domino_pairs.py) | Easy |
+| [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](solutions/easy/minimum_absolute_difference.py) | Easy |
+| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Solution](solutions/easy/nth_tribonacci_number.py) | Easy |
+| [Day of the Year](https://leetcode.com/problems/day-of-the-year/description/) | [Solution](solutions/easy/day_of_the_year.py) | Easy |
+| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) | [Solution](solutions/easy/find_words_that_can_be_formed_by_characters.py) | Easy |
+| [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/submissions/1352891065/) | [Solution](solutions/easy/unique_number_of_occurrences.py) | Easy |
+| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) | [Solution](solutions/easy/split_a_string_in_balanced_strings.py) | Easy |
+| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | [Solution](solutions/easy/find_numbers_with_even_number_of_digits.py) | Easy |
+| [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) | [Solution](solutions/easy/replace_elements_with_greatest_element_on_right_side.py) | Easy |
+| [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Solution](solutions/easy/find_n_unique_integers_sum_up_to_zero.py) | Easy |
+| [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) | [Solution](solutions/easy/find_lucky_integer_in_an_array.py) | Easy |
+| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/) | [Solution](solutions/easy/decrypt_string_from_alphabet_to_integer_mapping.py) | Easy |
+| [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/) | [Solution](solutions/easy/decompress_run_length_encoded_list.py) | Easy |
+| [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/) | [Solution](solutions/easy/convert_integer_to_the_sum_of_two_no_zero_integers.py) | Easy |
+| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | [Solution](solutions/easy/maximum_69_number.py) | Easy |
+| [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/) | [Solution](solutions/easy/rank_transform_of_an_array.py) | Easy |
+| [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/) | [Solution](solutions/easy/the_k_weakest_rows_in_a_matrix.py) | Easy |
+| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | [Solution](solutions/easy/number_of_steps_to_reduce_a_number_to_zero.py) | Easy |
+| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [Solution](solutions/easy/check_if_n_and_its_double_exist.py) | Easy |
+| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/) | [Solution](solutions/easy/count_negative_numbers_in_a_sorted_matrix.py) | Easy |
+| [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/) | [Solution](solutions/easy/sort_integers_by_the_number_of_1_bits.py) | Easy |
+| [How Many Numbers Are Smaller than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/) | [Solution](solutions/easy/how_many_numbers_are_smaller_than_the_current_number.py) | Easy |
 
 ### Medium
 
