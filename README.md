@@ -30,11 +30,11 @@ This repository is a collection of my solutions to LeetCode problems. I have org
 
 | Problem Link | Solution | Difficulty |
 | ------------ | -------- | ---------- |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](solutions/easy/valid_palindrome.py) |
-| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](solutions/easy/two_sum.py) |
-| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](solutions/easy/palindrome_number.py) |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](solutions/easy/remove_duplicates_sorted_array.py) | Easy |
-| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | Easy | [Solution](solutions/easy/find_index_first_occurrence.py) | Easy |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](solutions/easy/valid_palindrome.py) | Easy |
+| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](solutions/easy/two_sum.py) | Easy |
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](solutions/easy/palindrome_number.py) | Easy |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution] (solutions/easy/remove_duplicates_sorted_array.py) | Easy |
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) |[Solution](solutions/easy/find_index_first_occurrence.py) | Easy |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Solution](solutions/easy/search_insert_position.py) | Easy |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](solutions/easy/length_of_last_word.py) | Easy |
 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Solution](solutions/easy/plus_one.py) | Easy |
